@@ -10,5 +10,8 @@ It allows you to test multiple IPs and render their trends to chart.
 
 它允许你同事测试多个IP的Ping值并且能够将趋势绘制在图表上
 
+# Please Note
+Current version only supports one IP test.
+
 # Contact Us
 https://gtaos.com
