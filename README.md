@@ -1,5 +1,6 @@
 # GtaosPing
-![image](https://github.com/669344682/GtaosPing/assets/7806033/0000606e-1197-4257-a951-70bd305b2cab)
+![image](https://github.com/669344682/GtaosPing/assets/7806033/ed25ba3f-c0a0-496e-9a9d-f096339e2669)
+
 
 Multi-IP Ping Tester
 
